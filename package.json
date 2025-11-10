@@ -1,0 +1,8 @@
+{
+  "workspaces": [],
+  "name": "@portal-solutions/demonic",
+  "devDependencies": {
+    "typescript": "^5.9.3",
+    "zshy": "^0.4.4"
+  }
+}
