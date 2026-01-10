@@ -1,13 +1,14 @@
 # @portal-solutions/demonic
 
 ## Description
-Project demonic
+A fast interception library using SWC (Speedy Web Compiler) for code instrumentation or transformation.
 
 ## Goals
-- [ ] Add project goals
+- [ ] Implement code interception logic
+- [ ] Leverage SWC for AST manipulation
 
 ## Progress
-- [ ] Initial setup
+- [ ] Workspace setup with SWC dependencies
 
 ---
 *AI assisted*
